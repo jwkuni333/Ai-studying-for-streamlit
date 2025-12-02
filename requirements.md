@@ -1,4 +1,4 @@
-streamlit
-opencv-python-headless
-numpy
-torchstreamlit
+streamlit  
+opencv-python-headless  
+numpy  
+torchstreamlit  

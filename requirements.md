@@ -5,3 +5,4 @@ torch
 torchvision  
 torchaudio  
 rich>=10.14.0  
+graphviz
